@@ -4,7 +4,6 @@
 Bienvenue sur mon portfolio ! Vous pouvez consulter le site ici : [Mon Portfolio](https://moise-agode.github.io/)
 
 <<<<<<< HEAD
-![Aperçu du site](images/apercu.png.PNG)
 
 =======
 # Portfolio
